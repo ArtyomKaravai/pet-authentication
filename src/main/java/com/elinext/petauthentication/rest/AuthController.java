@@ -11,7 +11,7 @@ public class AuthController {
 
     @GetMapping("/test")
     public String testMethod() {
-        return "Succsessafgafgafdg";
+        return "Suczvzxvzxbvcsessafgafgafdg";
     }
 
 }
